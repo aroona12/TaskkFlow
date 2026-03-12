@@ -1,0 +1,1 @@
+Fixed: Task card title was overflowing on small screens. Added TextOverflow.ellipsis to the widget.
